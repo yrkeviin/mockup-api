@@ -38,7 +38,7 @@ export default function Profile() {
                         </ul>
                     </div>
 
-                    <Link href="/famosos" prefetch>
+                    <Link href="/alunos" prefetch>
                         <Button type="primary">
                             Acessar Minha API GET via Axios
                         </Button>
